@@ -1,0 +1,19 @@
+h1 {
+    color: darkslateblue;
+}
+img {
+    width:400px;
+}
+
+#thirdDiv {
+    background: burlywood;
+    width: 500px;
+    height: 600px;
+    padding: 50px;
+    border: 1px solid;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
